@@ -27,10 +27,11 @@ EEG-Quantum-Correlations/
 
 ## Full Reproduction
 
-To regenerate the five public figures from the embedded experiment registry already bundled in this repository:
+To regenerate the five public figures:
 
-1. Open `public_repro_5figures_from_experiments.ipynb`
-2. Run the notebook from top to bottom
+1. Download the raw EEG dataset from Zenodo
+2. Open `public_repro_5figures_from_experiments.ipynb`
+3. Run the notebook from top to bottom
 
 This notebook supports the main public frame switches:
 
