@@ -1,0 +1,7 @@
+condition,metric,direction,observed_diff,p_two_sided,p_one_sided
+false_session_matching,delta_h1_zero,positive,0.05263157894736842,0.61,0.31
+random_fake_quantum,delta_h1_zero,positive,0.05263157894736842,0.62,0.2
+false_session_matching,delta_lambda2,positive,0.5237956380573952,0.16,0.0
+random_fake_quantum,delta_lambda2,positive,0.5237956380573952,0.21,0.03
+false_session_matching,delta_aspl,negative,-0.06778049541532694,0.65,0.39
+random_fake_quantum,delta_aspl,negative,-0.06778049541532694,0.57,0.25
