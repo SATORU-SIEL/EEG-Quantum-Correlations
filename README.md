@@ -41,9 +41,14 @@ This notebook supports the main public frame switches:
 
 ## Raw-Data Reproduction
 
+Raw EEG dataset:
+
+**Raw EEG Data (26 Sessions) for Reproduction of Neural–Quantum Structural Analysis in IDPC**  
+https://doi.org/10.5281/zenodo.19624924
+
 To rerun the broader analysis pipeline from the full session data:
 
-1. Obtain the raw EEG dataset referenced in the paper
+1. Download the dataset from Zenodo
 2. Open `EEG_Quantum_Corr.ipynb`
 3. Run the notebook from top to bottom
 
