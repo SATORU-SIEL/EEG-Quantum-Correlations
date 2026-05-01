@@ -5,7 +5,7 @@ Reproduction repository ([GitHub](https://github.com/SATORU-SIEL/EEG-Quantum-Cor
 **Intersection-Defined Phase Coordinates Reveal Localized Selection and a Non-Closed Observational Structure**  
 https://doi.org/10.5281/zenodo.19956935
 
-This repository provides the notebooks and precomputed CSV artifacts needed to reproduce the public figures and to rerun the main analysis pipeline.
+This repository provides the notebooks and precomputed CSV artifacts needed to reproduce the public figures and to run the public reproduction workflow bundled in the repository.
 
 ## Quick Demo (Browser)
 
@@ -19,7 +19,6 @@ https://mybinder.org/v2/gh/SATORU-SIEL/EEG-Quantum-Correlations/HEAD?urlpath=%2F
 EEG-Quantum-Correlations/
 ├── binder_demo_5figures_precomputed.ipynb      # Binder demo (precomputed CSV only)
 ├── public_repro_5figures_from_experiments.ipynb # Public reproduction notebook
-├── EEG_Quantum_Corr.ipynb                       # Full analysis notebook
 ├── Quantum Mesurement.ipynb                     # Quantum measurement notebook
 ├── requirements.txt                             # Dependencies
 ├── Repro_CSV/                                   # Bundled CSV files for demo/reproduction
@@ -39,18 +38,14 @@ This notebook supports the main public frame switches:
 - task regime: `26task` or `30task`
 - correlation frame: `4ch` or `14ch`
 
-## Raw-Data Reproduction
+## Raw EEG Dataset
 
 Raw EEG dataset:
 
 **Raw EEG Data (26 Sessions) for Reproduction of Neural–Quantum Structural Analysis in IDPC**  
 https://doi.org/10.5281/zenodo.19624924
 
-To rerun the broader analysis pipeline from the full session data:
-
-1. Download the dataset from Zenodo
-2. Open `EEG_Quantum_Corr.ipynb`
-3. Run the notebook from top to bottom
+This dataset is the shared raw EEG resource associated with the study. The public repository here focuses on the Binder demo, precomputed figure reproduction, and the bundled public notebook workflow.
 
 ## Notes
 
