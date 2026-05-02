@@ -2,7 +2,7 @@
 
 Reproduction repository ([GitHub](https://github.com/SATORU-SIEL/EEG-Quantum-Correlations/)) for the paper:
 
-**Intersection-Defined Phase Coordinates Reveal Localized Selection and a Non-Closed Observational Structure**  
+**Topology Reveals Structure in EEG–Quantum Correlations Beyond Statistical Significance**  
 https://doi.org/10.5281/zenodo.19956935
 
 This repository provides the notebooks and precomputed CSV artifacts needed to reproduce the public figures and to run the public reproduction workflow bundled in the repository.
